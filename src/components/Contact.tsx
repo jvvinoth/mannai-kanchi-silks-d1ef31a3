@@ -1,4 +1,3 @@
-import React from 'react';
 import { MessageCircle, Phone, Mail, MapPin } from 'lucide-react';
 import { siteContent } from '../lib/siteContent';
 

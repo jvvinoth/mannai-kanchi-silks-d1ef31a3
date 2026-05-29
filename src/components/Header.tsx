@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { MessageCircle, Phone, Menu, X } from 'lucide-react';
 import { siteContent } from '../lib/siteContent';
 

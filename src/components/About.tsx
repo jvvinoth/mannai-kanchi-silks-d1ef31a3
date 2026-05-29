@@ -1,4 +1,3 @@
-import React from 'react';
 import { Award, Heart, Sparkles, Users } from 'lucide-react';
 import { siteContent } from '../lib/siteContent';
 
