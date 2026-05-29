@@ -1,8 +1,8 @@
-import { Award, Heart, Sparkles, Users } from 'lucide-react';
+import { Award, Heart, Sparkles, Users, LucideIcon } from 'lucide-react';
 import { siteContent } from '../lib/siteContent';
 
 export const About: React.FC = () => {
-  const icons = [Award, Heart, Sparkles, Users];
+  const icons: LucideIcon[] = [Award, Heart, Sparkles, Users];
 
   return (
     <section id="about" className="py-20 bg-white">
