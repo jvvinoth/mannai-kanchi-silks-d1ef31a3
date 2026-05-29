@@ -56,14 +56,14 @@ export const siteContent: SiteContent = {
   businessName: 'Mannai Kanchi Silks',
   tagline: 'Timeless Elegance in Every Weave',
   whatsapp: {
-    number: '+919876543210',
-    link: 'https://wa.me/919876543210'
+    number: '+917904003326',
+    link: 'https://wa.me/917904003326'
   },
   phone: {
-    display: '+91 98765 43210',
-    link: 'tel:+919876543210'
+    display: '+91 79040 03326',
+    link: 'tel:+917904003326'
   },
-  email: 'info@mannaikanchsilks.com',
+  email: 'jvvinoth2@gmail.com',
   hero: {
     title: 'Authentic Kanchipuram Silk Sarees from Chennai',
     subtitle: 'Discover our handpicked collection of premium Kanchipuram silk sarees. Each piece is carefully selected to bring you the finest craftsmanship and timeless beauty.',
@@ -120,8 +120,8 @@ export const siteContent: SiteContent = {
         description: 'Browse our collection and place your order seamlessly through WhatsApp. We make shopping for luxury silk sarees simple and convenient.'
       },
       {
-        title: 'Chennai-Based Expertise',
-        description: 'Based in the heart of Chennai, we have direct access to the best Kanchipuram silk sarees and deep knowledge of this timeless art form.'
+        title: 'Valasaravakkam, Chennai Expertise',
+        description: 'Based in Valasaravakkam, Chennai, Tamilnadu 600083, we have direct access to the best Kanchipuram silk sarees and deep knowledge of this timeless art form.'
       }
     ]
   },
@@ -131,7 +131,7 @@ export const siteContent: SiteContent = {
     cta: 'Message Us on WhatsApp'
   },
   footer: {
-    tagline: 'Bringing you authentic Kanchipuram silk sarees from Chennai',
+    tagline: 'Bringing you authentic Kanchipuram silk sarees from Valasaravakkam, Chennai, Tamilnadu 600083',
     copyright: '© 2024 Mannai Kanchi Silks. All rights reserved.'
   }
 };
